@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * @author 通知类DAO的实现层
  * Created by asus on 2017/12/24.
  */
 public class InformDAOImpl implements InformDAO {
